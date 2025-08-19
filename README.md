@@ -58,13 +58,14 @@ To experiment with a specific prompt, copy its contents and integrate it into yo
 
 Intellectual contributions to this project are welcomed. Your insights and expertise are invaluable to its growth and continued relevance. To contribute, please adhere to the following workflow:
 
-Fork the repository and create a new branch for your proposed changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: <code>git checkout -b feature/your-feature-name</code>.
+3. Ensure your contributions are well-documented and align with the established repository structure.
+4. Submit a pull request with a detailed description of your changes and their rationale.
+5. Commit your changes: <code>git commit -m 'Add a new feature'</code>.
+6. Push to the branch: <code>git push origin feature/your-feature-name</code>.
+7. Open a pull request and describe your changes.
 
-Ensure your contributions are well-documented and align with the established repository structure.
-
-Submit a pull request with a detailed description of your changes and their rationale.
-
-For a comprehensive guide on contribution standards, please consult the CONTRIBUTING.md file.
 
 # License
 
